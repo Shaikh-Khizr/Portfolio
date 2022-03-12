@@ -15,7 +15,7 @@ export default {
     },
     {
       name: 'imgurl',
-      title: 'ImgURL',
+      title: 'ImgUrl',
       type: 'image',
       options: {
         hotspot: true,
